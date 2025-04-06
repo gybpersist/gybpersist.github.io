@@ -15,7 +15,7 @@
           
           <category> 数据结构 </category>
           
-          <category> 二叉树 </category>
+          <category> 七 二叉树 </category>
           
       </categories>
       
@@ -42,6 +42,8 @@
           
           <category> 数据结构 </category>
           
+          <category> 六 顺序栈 </category>
+          
       </categories>
       
       
@@ -66,6 +68,8 @@
       <categories>
           
           <category> 数据结构 </category>
+          
+          <category> 五 双向循环链表 </category>
           
       </categories>
       
@@ -92,6 +96,8 @@
           
           <category> 数据结构 </category>
           
+          <category> 四 单向循环链表 </category>
+          
       </categories>
       
       
@@ -116,6 +122,8 @@
       <categories>
           
           <category> 数据结构 </category>
+          
+          <category> 二 单向链表 </category>
           
       </categories>
       
@@ -142,7 +150,7 @@
           
           <category> 数据结构 </category>
           
-          <category> 顺序表 </category>
+          <category> 一 顺序表 </category>
           
       </categories>
       
@@ -168,6 +176,8 @@
       <categories>
           
           <category> 数据结构 </category>
+          
+          <category> 三 双向链表 </category>
           
       </categories>
       
