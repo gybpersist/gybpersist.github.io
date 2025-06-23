@@ -15,9 +15,7 @@
           
           <category> 51单片机 </category>
           
-          <category> 按键 </category>
-          
-          <category> 蜂鸣器 </category>
+          <category> 按键 蜂鸣器 </category>
           
       </categories>
       
@@ -25,6 +23,10 @@
         <tags>
             
             <tag> 51单片机 </tag>
+            
+            <tag> 按键 </tag>
+            
+            <tag> 蜂鸣器 </tag>
             
         </tags>
       
@@ -53,6 +55,8 @@
             
             <tag> 51单片机 </tag>
             
+            <tag> 8位数码管 </tag>
+            
         </tags>
       
     </entry>
@@ -79,6 +83,8 @@
         <tags>
             
             <tag> 51单片机 </tag>
+            
+            <tag> 51单片机概述 </tag>
             
         </tags>
       
