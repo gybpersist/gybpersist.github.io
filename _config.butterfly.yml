@@ -53,23 +53,23 @@ social:
 # Image Settings
 # --------------------------------------
 
-favicon: /img/22.ico
+favicon: /img/系统/22.ico
 
 avatar:
-  img: /img/22-icon.png
+  img: /img/系统/22-icon.png
   effect: false
 
 # Disable all banner images
 disable_top_img: false
 
 # If the banner of page not setting, it will show the default_top_img
-default_top_img:
+default_top_img: /img/系统/22.png
 
 # The banner image of index page
-index_img: /img/11.png
+index_img: /img/系统/11.png
 
 # The banner image of archive page
-archive_img:
+archive_img: /img/系统/22.png
 
 # Note: tag page, not tags page
 tag_img:
@@ -85,14 +85,14 @@ category_img:
 # The banner image of category page, you can set the banner image for each category
 # Format:
 #  - category name:
-category_per_img:          
+category_per_img:         
 
 # The background image of footer
 footer_img: false
 
 # Website Background
 # Can set it to color or image url
-background: /img/11.png
+background: /img/系统/11.png
 
 cover:
   # Disable the cover or not
@@ -105,14 +105,14 @@ cover:
 
 # Replace Broken Images
 error_img:
-  flink: /img/friend_404.gif
-  post_page: /img/404.jpg
+  flink: /img/系统/friend_404.gif
+  post_page: /img/系统/404.jpg
 
 # A simple 404 page
 error_404:
   enable: true
   subtitle: 'Page Not Found'
-  background: /img/error-page.png
+  background: /img/系统/error-page.png
 
 post_meta:
   # Home Page
@@ -175,7 +175,7 @@ subtitle:
 # 5: Info displayed on the cover
 # 6: Masonry layout - Cover on top, info on the bottom
 # 7: Masonry layout - Info displayed on the cover
-index_layout: 4
+index_layout: 2 #4
 
 # Display the article introduction on homepage
 # 1: description
@@ -290,9 +290,7 @@ aside:
       link: https://github.com/gybpersist
   card_announcement:
     enable: true
-    content: #公告
-    - Hello World！
-    - Emil:3226299527@qq.com
+    content: Emil:3226299527@qq.com          #公告    
   card_recent_post:
     enable: true
     # If set 0 will show all
