@@ -28,6 +28,6 @@
     "hexo-theme-landscape": "^1.0.0",
     "live2d-widget-model-koharu": "^1.0.5",
     "live2d-widget-model-shizuku": "^1.0.5",
-    "moment-timezone": "^0.5.47"
+    "moment-timezone": "^0.6.3"
   }
 }
