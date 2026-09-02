@@ -31,8 +31,6 @@ cover: /img/封面/C语言/cover (1).png   # 文章封面
 编写的编程语言(大量的代码(指令)组成)  
   比如 xxx.c文件
 
-测试
-
 ```c
   int main(){
      printf("xxxx");
